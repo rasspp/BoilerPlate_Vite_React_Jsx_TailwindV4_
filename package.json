@@ -28,6 +28,3 @@
     "vite": "^6.1.0"
   }
 }
-git remote add origin https://github.com/rasspp/BoilerPlate_Vite_React_Jsx_TailwindV4_.git
-git branch -M main
-git push -u origin main
